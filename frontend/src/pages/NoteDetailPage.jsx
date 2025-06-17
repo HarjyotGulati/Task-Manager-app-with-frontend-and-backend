@@ -1,9 +1,9 @@
 import React from 'react'
 
-const NoteDetailPage = () => {
+const NoteDetailPage = ({note}) => {
   return (
     <div>
-      Note Detail Page.
+      
     </div>
   )
 }
